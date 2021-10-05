@@ -1,0 +1,11 @@
+C:\Users\Ivan\source\repos\Task1\TestTask1\obj\Debug\TestTask2.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\Task1\TestTask1\obj\Debug\FamilyDataChange.g.cs
+C:\Users\Ivan\source\repos\Task1\TestTask1\obj\Debug\TestTask1_MarkupCompile.cache
+C:\Users\Ivan\source\repos\Task1\TestTask1\obj\Debug\TestTask1_MarkupCompile.lref
+C:\Users\Ivan\source\repos\Task1\TestTask1\obj\Debug\TestTask1.dll
+C:\Users\Ivan\source\repos\Task1\TestTask1\obj\Debug\TestTask1.pdb
+C:\Users\Ivan\source\repos\Task1\TestTask1\bin\Debug\TestTask1.dll
+C:\Users\Ivan\source\repos\Task1\TestTask1\bin\Debug\TestTask1.pdb
+C:\Users\Ivan\source\repos\Task1\TestTask1\obj\Debug\FamilyDataChange.baml
+C:\Users\Ivan\source\repos\Task1\TestTask1\obj\Debug\TestTask1.g.resources
+C:\Users\Ivan\source\repos\Task1\TestTask1\obj\Debug\TestTask2.csproj.CoreCompileInputs.cache
